@@ -8,3 +8,7 @@ This container image is simply. You can control openstack by ansible.
 * openstackclient 4.0.0
 * openstacksdk 0.46.0
 * python-openstackclient 5.2.0
+
+# Build image
+
+[gzock/ansible-for-openstack](https://hub.docker.com/repository/docker/gzock/ansible-for-openstack)
