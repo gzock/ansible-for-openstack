@@ -9,7 +9,7 @@ This container image is simply. You can control openstack by ansible.
 * openstackclient 4.0.0
 * openstacksdk 3.3.0
 * python-openstackclient 7.0.0
-* * ansible-galaxy openstack.cloud 2.2.0
+* ansible-galaxy openstack.cloud 2.2.0
   * ref: https://galaxy.ansible.com/openstack/cloud
 
 # Build image
