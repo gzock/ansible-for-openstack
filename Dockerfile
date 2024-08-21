@@ -1,4 +1,4 @@
-from python:3.12-alpine
+FROM python:3.12-alpine
 
 RUN apk add curl gcc openssl-dev musl-dev libffi-dev g++
 
