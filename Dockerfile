@@ -10,3 +10,5 @@ RUN pip3 install --upgrade pip
 RUN pip3 install ansible openstacksdk openstackclient
 
 RUN ansible-galaxy collection install openstack.cloud
+
+ENTRYPOINT ansible
